@@ -1,0 +1,8 @@
+# Ignore .vs folder at the root
+/.vs/
+
+# Ignore everything in the model folder
+/model/
+
+# Ignore the x64 folder
+/x64/
